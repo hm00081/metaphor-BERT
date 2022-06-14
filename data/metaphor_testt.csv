@@ -1,0 +1,240 @@
+﻿index,label,sentence
+0,0,"diffusion paths for FoxNews with strong and weak opinions, respectively."
+1,0,The stacked tree is synchronized with the opinion flow visualization to help users examine and compare diffusion patterns across topics.
+2,0,"newness of a topic in a time window, ratio of original content per author, used topics of participants, and co occurrences between topics."
+3,0,timestamps
+4,0,co occurring topics
+5,0,"Twitter posts about the earthquake in Chile on the evening of February 27, 2010"
+6,0,newest topics
+7,0,Large Scale Events
+8,0,sequence of entities that form a conversation
+9,0,"Live Chat managers estimate they received 5675 chats per month or 22,700 chats over our four month test period"
+10,0,Visualizing and comparing multi item features.
+11,0,the tweets of Hillary Clinton and Donald Trump in the U.S Presidential Election Campaign of 2016.
+12,0,"we processed 3,416 tweets from Hillary Clinton (indicated by pink) and Donald Trump (blue) in the 2016 presidential election in the USA."
+13,0,"This file contains data about the time the message was posted, the person who posted it, the person receiving it and the contents."
+14,0,Each message also includes a “To” and “From” which shows the user’s friendly (nick) name.
+15,0,A typical social divergence process is usually represented as different opinions expressed by groups of users towards the same topics or events over time.
+16,0,"we decompose these data into several key factors including: (1) temporal extent of social communities, (2) topics or events, and (3) user responses to the topics and events."
+17,0,"The processes include data filtering and segmentation, user sentiment estimation, and user clustering."
+18,0,"We collected US presidential debate (held on October 3, 11, 16, and 22, 2012) data from the 10 % Twitter stream."
+19,0,"Visualization of the dynamics of topic cooperation and competition from August 13, 2012 to March 25, 2013."
+20,0,"spending, welfare, economy general, international issues, and government and politics"
+21,0,business topic data
+22,0,social topics data
+23,0,visual patterns that characterize prominent news
+24,0,dense streaming news topics
+25,0,streaming news data
+26,0,"Snopes is a website that collects memes, urban legends, and stories with unknown or uncertain origins."
+27,0,"Reddit is a social networking and news website where users, called Redditors, can create a submission with text content and direct links to other online content."
+28,0,using Wikipedia entity linking or the user with the most comments.
+29,0,The original weibo
+30,0,original message
+31,0,Weibo reposting data
+32,0,"key players can create new opinions or topics, and may have a strong influence on the overall even"
+33,0,tweeting rabbis
+34,0,a single social media event
+35,0,All based on a single event   a single tweet or a single link shortening
+36,0,"the location set consists of the important cites of Britain, and the time period is divided into weeks."
+37,0,"The representation of the dimensions needs to reflect their inherent properties, particularly, the geographic arrangement of the locations and the linear ordering of the time intervals."
+38,0,"The items shown in the projection are labeled, depending on their nature, with the location names, indexes of time steps, or dominant keywords (i.e., having the highest weights for the topics)."
+39,0,"The reviews often contain statements about working conditions, company culture and management styles, which are used to describe Employee Imagery. We collected 312,400 Glassdoor employee reviews in total."
+40,0,"We considered the tweets from a brand’s Twitter account as its Official Announcements, and collected 680,056 tweets all together."
+41,0,Twitter regarding the US presidential primary elections of the Republican Party
+42,0,active tweets
+43,0,sentiments and banks based on shared keywords.
+44,0,the total number of posts.
+45,0,"Every extracted opinion contains positive, negative, and uncertainty scores for each feature. "
+46,0,"When conveying opinions to a user, we usually need to combine multiple selected opinions for multi scale visual data exploration"
+47,0,"Customer opinions are the center of customer feedback data,"
+48,0,"Our TextWheel system consists of several visual components, which are all inspired by some everyday objects that users are very familiar with. For example, our keyword wheel is inspired by Ferris wheels. News articles move along the transportation belt just like baggage moving along the conveyor belt."
+49,0,the session level frames extracted from the video and the danmu posts
+50,0,summary of different sessions in a video
+51,0,user selected video segment(s)
+52,0,initial post
+53,0,"Then User A replied to others postings, and the level of response gradually dropped"
+54,0,initial postings
+55,0,blue replies
+56,1,smoothly explore opinion diffusion from the high level to the low level
+57,1,"With this function, they can explore a single event and its related opinion diffusion under different time granularities."
+58,1,it is preferred to propagate positive opinions over the long term.
+59,1,observe and compare opinion diffusion with respect to different topics
+60,1,exploring new visual interfaces for backchannel communication
+61,1,supports interactive exploration
+62,1,we seek to encode recent and present data change with visual variables that are easy to follow and gradually build up a history of data change
+63,1,topic summarization
+64,1,summarization at different levels of detail
+65,1,visualize both raw text and derived properties
+66,1,"In the iterative process, various insights can be derived by exploring different aspects of the data streams."
+67,1,Comparative exploration of the tweets of Hillary Clinton and Donald Trump in the U.S Presidential Election Campaign of 2016.
+68,1,Visual Summary Level: Comparison of Comparison
+69,1,The iterative exploration and Comparison of comparisons enabled us to compare multiple aspects of the two data streams.
+70,1,Text data from IM chat is typically displayed as a temporally ordered list and quickly fills available screen space.
+71,1,small segment at a time and the text list itself does not make interaction patterns easy to discern.
+72,1,The visualization should highlight the people who were involved in the divergence.
+73,1,The visualization should capture the key events that result in the divergence.
+74,1,we cluster users based on their sentiment similarities over time to generate social communities and analyze the divergence between them by comparing the relative positions of two community strands.
+75,1,understanding the concrete reasons causing the sentiment divergence requires to drilling down into the details and tracing the specific topics and the corresponding events.
+76,1,"we found that this divergence appeared when Romney criticized Obama stance on Israel, saying that the president did not hold the Jewish state in a tight enough embrace."
+77,1,temporal patterns or on the co evolutionary patterns
+78,1,Compare topics pair wisely
+79,1,Relate topic leaders to topics
+80,1,must enhance the prominent patterns
+81,1,topics evolves over time
+82,1,"What are the different standpoints worldwide concerning such crisis, event, or threat?"
+83,1,how themes can emerge and subside
+84,1,"quick overview of what is happening in the news at any given time, how stories evolve, merge, and subside, and how they are reported"
+85,1,"spread of rumours, both the evolution (or flow) of information and the topics discussed by the players are of importance"
+86,1,"compare different rumours with regard to their life cycles, active players and popular topics from start to end."
+87,1,"Most of the keywords are positive, and negative keywords are mostly shown on the territories associated with Kanchai. After fast forwarding the diffusion process using the Timeline View, we divided the event into three stages"
+88,1,R Map can intuitively reveal semantic features in the reposting process while showing the diffusion tree structure
+89,1,"which is color coded by sentiment, gives us a sentiment overview of the reposting process and the opinions of weibo user"
+90,1,Zoom in and Explore Detailed Topics on Demand
+91,1,"The construction of R Map takes into consideration both the reposting structure and the semantics,"
+92,1,R Map provides intuitive map metaphors to help in the exploration of reposting data from the perspective of both structure and semantics.
+93,1,provides an intuitive summary of the information reposting process.
+94,1,they wanted to show how readers engage with stories
+95,1,life cycle of how information spreads
+96,1,who actually gets people to come back
+97,1,A common way to summarize text semantics is probabilistic topic modeling.
+98,1,"A location card is meant for comparing data at one location, called current location, with data at the other locations."
+99,1,Individual View and the Comparative View
+100,1,"To help users understand and verify the perceived personality traits,"
+101,1,To support visual comparison of two brand personality profile
+102,1,to explore the historical data and to support in depth visual analysis.
+103,1,where the information is propagated' it is also interesting to show 'where the information came from'.
+104,1,how Whisper facilitates the exploration of people’s reactions and the temporal and spatial diffusion patterns.
+105,1,"intuitively represents the collective response, multi step information flow as well as temporal heterogeneity of typical information diffusion processes."
+106,1,"a stronger visual metaphor that easily conveys and equally resonates with banks and its customers, may present the data in a more unobstructed and engaging manner"
+107,1,"Our design principles include effectiveness, intuitiveness, and attraction. Simplicity or intuitiveness is strongly required because our end users do not have much background on information technology, while the visualization should be aesthetically appealing because the users want to present their findings directly to a wider audience."
+108,1,"By working closely with our target users, we developed a visualization system that could convey the results of the opinion mining, from simple to complex, while keeping its intuitiveness."
+109,1,The relationships could be revealed by connecting related categories using curved belts rather than parallelograms in Parallel Sets.
+110,1,"By comparing these opinion points inside the opinion triangle, we could readily identify the differences of the customer opinion groups."
+111,1,We focus on the multiple attributes of news articles and the dynamic relations between articles and keywords.
+112,1,This requires understanding of individual danmu post and lever aging the meta information derived from aggregated danmu data.
+113,1,The system should enable flexible video exploration guiding by the aforementioned con textual information derived from the danmu data.
+114,1,Visual clutter should be reduced to maintain a neat and clear look of the summary. 
+115,1,This ensures the legibility of the video storyline and improves the system's usability.
+116,1,"While PeopleFlower specifies how to represent individual users, PeopleGarden specifies how to layout the flowers for overview and comparison of users."
+117,1,Who has been here for some time or posted many messages?
+118,2,We apply a Gaussian kernel in our KDE algorithm to visually display an opinion of a user and its possible diffusion direction with regard to a topic at a certain time stamp.
+119,2,Gaussian kernel is flexible and can be modified to convey orientation information.
+120,2,The proposed system allows a user to explore opinion diffusion across a relatively large number of users using a hierarchical topic structure built by BRT.
+121,2,dot in the spiral stands for a participant
+122,2,"The Image Cloud is a lightweight view for socially shared images, inspired by the widespread use of tag clouds on the Web."
+123,2,"semantic tag (e.g. “greeting’, ‘question’, ‘feature’)"
+124,2,"streamgraph provides an overview of topics, topic volume, and topic emotion over time"
+125,2,Streamgraphs can visualize tens of thousands of chats
+126,2,The bridge interior is divided into blocks representing different items.
+127,2,"To mark the exact time range, there are two gray curved lines linking the bridge sides to the accurate temporal or sequential positions on the river banks."
+128,2,"The two sides of the trapezoid of the bridge imitate the shape of the riverbanks, thus depicting local trends, increase or decrease."
+129,2,The line plots making the river sides represent the evolution of a quantitative aspect of the data streams.
+130,2,The row in CrystalChat represents the conversation that occurred within a given message window.
+131,2,We mentioned earlier that translucent planes were added for readability for the side view.
+132,2,The hexagonal shape results from the choice to display one’s conversations with six people.
+133,2,the box connecting two community strands illustrates an event that involves users from both communities
+134,2,"Inside the event box, keywords are represented as small bars."
+135,2,A user group is visualized as a circle embedded within the community strand.
+136,2,A community strand should be a smooth belt representation since users change their sentiments smoothly and continuously in most of the time.
+137,2,We design EvoRiver to visualize the evolutionary coopetition power for each topic through a river metaphor
+138,2,river strip
+139,2,the main components of NewsLab (NewsRiver and LensRiver)
+140,2,the NewsRings
+141,2,LensRiver
+142,2,"In each stream, there is an internal layer, or sub stream, that reflects the number of unique users of a submission at a given time."
+143,2,utilizes visualization techniques to illustrate the diffusion process of information using a map metaphor
+144,2,"Rivers, bridges and routes explicitly indicate the different relations between key players. Each country is further divided into regions representing different topics."
+145,2,"To highlight these special repostings for key players, we split the territories of key players from the continents in the form of islands"
+146,2,Project Cascade
+147,2,"In the map, the graduated circles represent the counts of documents posted at the respective locations in comparison to the current location"
+148,2,The bars representing the same selected item in consecutive cards are connected to form a continuous stream.
+149,2,This representation follows the idea of the ThemeRiver display.
+150,2,"To visualize the similarities and differences of the topical words of two brands (denoted as A and B), the word bricks of two brands in each factor band are grouped into three topic blocks based on their logical relations."
+151,2,we design the BrandSediments visualization using a sedimentation metaphor.
+152,2,This metaphor is inspired by real world sedimentation processes where objects aggregate into strata over time.
+153,2,Each bubble in BrandSediments represents a brand.
+154,2,The path linking a tweet to the retweet user groups illustrates a diffusion path along which the information of the tweet is diffused based on retweeting.
+155,2,"Diffusion pathways are traced as curved lines to reduce crossings and overlaps, which also mimic the shape of ray florets."
+156,2,"The first case can be indicated by a set of widespread curved pathways, and the second case is indicated by a small and concentrated set of pathways."
+157,2,"Particularly, the mature/immature disc florets are used to represent active/inactive tweets about a given topic. The ray floret are used to represent diffusion pathways that portray how the information diffused from the information sources at center to the surrounding user groups."
+158,2,SentiWheel presents a holistic view
+159,2,The wheel
+160,2,Opinion Rings
+161,2,"Compared with other visual metaphors, the opinion triangle could present the uncertainty information naturally;"
+162,2,"To deal with the complex macro/micro relations existing among keywords and articles, we introduce a novel visual primitive called TextWheel which consists of one or multiple keyword wheels, a document transportation belt, and chains to connect the belt and wheels"
+163,2,umbrella shaped canopy
+164,2,"summary of different sessions in a video is illustrated as scene trees grown on a video timeline ground, with the roots depicting the corresponding danmu messages."
+165,2,compact storyline in the form of circle packing
+166,2,The visual design of VideoForest
+167,2,"Informaton visualization, data portraits, user centered visualization, interaction context"
+168,2,data portraits are abstract representations of usersinteraction history.
+169,2,It looks healthier than one with faded flowers representing a group with mostly old posts.
+170,2,data portraits
+171,3,the green region (positive opinions) highlighted in a dashed rectangle in the asylum topic.
+172,3,"To enable a user to better relate a strip to a topic, we also place the keywords of the topic obtained by the BRT model onto the corresponding topic strip (see the blue labels)"
+173,3,temporary yellow coloured backgrounds to the corresponding labels
+174,3,the dot size to represent their activity in the backchannel
+175,3,block texture: dominant speaker
+176,3,area: number of chats with emotion pattern set
+177,3,"Blue, grey, and red nodes at the top, centre, and bottom of the graph represent pleasant, neutral, and unpleasant entities"
+178,3,We support multiple ways of selecting sub streams to be compared.
+179,3,The size and/or color of a node can encode item related information.
+180,3,"In particular, the node size can encode the overall frequency, and colored segments can represent the frequencies in the two streams. "
+181,3,We use this term value to mean the relative lightness or darkness of a given hue by increasing or decreasing the RGB values.
+182,3,One can spot at a glance the more verbose conversations from those that consist of quicker word responses.
+183,3,"The users within the group are represented as dots whose sizes and colors represent the usersnormalized activeness and their sentiments, respectively."
+184,3,The thickness of a strand represents the community size that may vary overtime.
+185,3,"we lay out event keywords within the event box by their polarities based on the user mentions, such that their distances to each community strand are directly proportional to the amount of user mentions from that community."
+186,3,The strips are stacked on the top and bottom parts of EvoRiver
+187,3,"the chart with two lines in orange and green representing the competition and cooperation powers, respectively."
+188,3,Time flows clockwise starting from the North position.
+189,3,This is achieved by ranking each topic according to a strength measure such as word count; the corresponding streams in the NewsRiver are then stacked accordingly
+190,3,whose size represents ambiguity (larger for more controversial).
+191,3,visualized on the map using different regions and colors
+192,3,"If a key player does not follow his/her parent, a curved route connects them; if the topics of the territories belonging to the key player are different from his/her parent, a straight bridge connects them"
+193,3,"which is color coded by sentiment, gives us a sentiment overview of the reposting process and the opinions of weibo user"
+194,3,a yellow square
+195,3,The information is shown in the form of word cloud with the font sizes proportional to the keyword weights.
+196,3,The bar heights are proportional to the respective popularity scores; the ordering from top to bottom corresponds to the decreasing order of the scores.
+197,3,"The size of a bubble encodes brand singularity, which measures the degree of focus and single mindedness of a brand’s overall personality scales."
+198,3,"the horizontal position of a bubble depicts the trait value of the corresponding brand, and brands of similar trait values are aggregated vertically to form a personality based market segment within a trait value interval."
+199,3,A round glyph tweet indicates the user does not belong to any of these categories. 
+200,3,"Retweets are shown as arrow shape glyphs, with arrows pointing to user groups."
+201,3,The wheel's size dynamically adjusts as data is crawled online
+202,3,a strong negative opinion could be represented by a point toward the left disbelief vertex of the opinion triangle. 
+203,3,"The size of the wheel and belt, the order of the documents in the belt, and the encoding schemes are all configurable."
+204,3,its height directly proportional to the number of danmu messages posted within its corresponding time window.
+205,3,magenta
+206,3,a garden with more bright flowers indicates a discussion group with more new posts.
+207,3,"Magenta denotes initial postings, and blue replies."
+208,4,"we determine a topic hierarchy based on the tweets, we draw a stacked tree."
+209,4,This tree is a combination of stacked tree nodes and tree nodes composed of node link diagrams.
+210,4,"time grid, and time labels"
+211,4,"as temporally adjustable stacked graphs,"
+212,4,y position and colour dual encode the overall emotion of a node’s text. 
+213,4,"x axis: time, y axis: pleasure, blue, grey, and red nodes"
+214,4,Glyphs are positioned using MDS to visually encode text similarity across emotion pattern sets
+215,4,"We provide three ways to enable users to select sub streams for comparison: textual query, item graph node selection, and iterative attribute based filtering applied to the currently explored (sub)set."
+216,4,We create a graph display of the items and their co occurrence relationships. Each node represents an item. 
+217,4,"A link between two nodes indicates the co occurrence relationship between two items. If two items occur together more often, their positions will be closer in the force directed layout."
+218,4,"In creating navigation interactions with CrystalChat, our purpose is not to limit the navigation power but to provide 3D interaction paths that give freedom without causing the viewer to lose themselves in 3D screen space."
+219,4,Only the top active users and high frequency keywords (after removing the stop words) are kept for visualization.
+220,4,the features of the tag cloud tooltip and the raw tweet extraction were helpful for showing the data context.
+221,4,detailed analysis with word clouds in a composite display of strips and threads.
+222,4,A word cloud is used to reveal the pattern through digging into the data 
+223,4,A line chart displaying the number of tweets posted about the topic is also displayed above EvoRiver
+224,4,This visualization maps the news to a river where each topic occupies a stream flowing from left to right as time elapses.
+225,4,This is achieved by ranking each topic according to a strength measure such as word count; the corresponding streams in the NewsRiver are then stacked accordingly
+226,4,The Sankey graph based on this connection allows the viewers to perceive the volume of migration of users from one topic to another along the rumour life cycle.
+227,4,The time ticks show the delay time of reposting from that of the original weibo
+228,4,"The diffusion structure can be visualized using various link metaphors, including rivers, routes and bridges"
+229,4,circle packing
+230,4,"we must use a combination of partial views, which, in principle, may be 2D or 3D."
+231,4,it is also aesthetically more appealing and engaging than a bar chart.
+232,4,the interactive timeline that summarizes the volume of incoming tweets and the average sentiments within each time interval; and 8) the diffusion series on which the detailed retweeting behaviors of users are visualized.
+233,4,reflecting the most current volume of posts in real time
+234,4,Fig. 1(b) shows the temporal ring and geographic ring simultaneously in the opinion wheel.
+235,4,news streams are time varying high dimensional data
+236,4,packed in a radial layout
+237,4,the aggregated danmu posts are laid out as a temporal tag cloud
+238,4,"they posted at different time interval, as indicated by the saturation of the petals"
